@@ -1,6 +1,6 @@
 localization:
   commons:
-    version: 2
+    version: 3
     masterLang: en
   lexemes:
     - name: header
