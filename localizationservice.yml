@@ -1,5 +1,6 @@
 localization:
-  varsion: 1
+  version: 1
+  masterLang: en
   lexemes:
     - name: header
       describe: name of header
