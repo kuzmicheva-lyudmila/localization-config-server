@@ -4,6 +4,8 @@ localization:
       describe: name of header
     - name: title_service
       describe: name of service
+    - name: error
+      describe: error
   translations:
     - lexeme: header
       lang: ru
