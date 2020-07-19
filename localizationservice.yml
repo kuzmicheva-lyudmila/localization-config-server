@@ -1,6 +1,6 @@
 localization:
   commons:
-    version: 1
+    version: 2
     masterLang: en
   lexemes:
     - name: header
@@ -17,8 +17,4 @@ localization:
     - lexeme: header
       lang: en
       describe: header
-      enabled: true
-    - lexeme: error
-      lang: en
-      describe: error
-      enabled: true    
+      enabled: true  
