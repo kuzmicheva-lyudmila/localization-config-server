@@ -1,16 +1,16 @@
 localization:
-  keys:
+  lexeme:
     - name: header
       describe: name of header
     - name: title_service
       describe: name of service
   translations:
-    - key: header      
+    - lexeme: header      
       - lang: ru
         translation: заголовок    
       - lang: en
         translation: header
-    - key: title_service
+    - lexeme: title_service
       - lang: ru
         translation: имя сервиса
       - lang: en
