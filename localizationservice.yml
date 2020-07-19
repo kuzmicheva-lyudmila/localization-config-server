@@ -8,12 +8,15 @@ localization:
       describe: name of service
     - name: error
       describe: error
-  translations:
+  lexemesTranslations:    
     - lexeme: header
-      lang: ru
-      describe: заголовок
-      enabled: true
-    - lexeme: header
-      lang: en
-      describe: header
-      enabled: true  
+        - lang: ru
+          describe: заголовок
+          enabled: true
+        - lang: en
+          describe: header
+          enabled: true
+    - lexeme: error
+        - lang: en
+          describe: header
+          enabled: true  
