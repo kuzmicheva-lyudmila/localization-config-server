@@ -1,4 +1,5 @@
 localization:
+  varsion: 1
   lexemes:
     - name: header
       describe: name of header
@@ -15,3 +16,7 @@ localization:
       lang: en
       describe: header
       enabled: true
+    - lexeme: header
+      lang: en
+      describe: header
+      enabled: true      
