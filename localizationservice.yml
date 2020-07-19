@@ -16,7 +16,7 @@ localization:
       lang: en
       describe: header
       enabled: true
-    - lexeme: header
+    - lexeme: error
       lang: en
-      describe: header
+      describe: error
       enabled: true      
