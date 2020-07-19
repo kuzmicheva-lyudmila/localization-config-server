@@ -10,6 +10,7 @@ localization:
       describe: error
   lexemesTranslations:    
     - lexeme: header
+      translations:
         - lang: ru
           describe: заголовок
           enabled: true
@@ -17,6 +18,7 @@ localization:
           describe: header
           enabled: true
     - lexeme: error
+      translations:
         - lang: en
           describe: header
           enabled: true  
