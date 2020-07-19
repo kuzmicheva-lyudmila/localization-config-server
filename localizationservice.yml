@@ -1,18 +1,15 @@
 localization:
-  lexeme:
+  lexemes:
     - name: header
       describe: name of header
     - name: title_service
       describe: name of service
   translations:
-    - lexeme: header      
-      - lang: ru
-        translation: заголовок    
-      - lang: en
-        translation: header
-    - lexeme: title_service
-      - lang: ru
-        translation: имя сервиса
-      - lang: en
-        translation: name of service
-      
+    - lexeme: header
+      lang: ru
+      describe: заголовок
+      enabled: true
+    - lexeme: header
+      lang: en
+      describe: header
+      enabled: true
