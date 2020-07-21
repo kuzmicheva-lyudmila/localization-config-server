@@ -12,12 +12,9 @@ localization:
       translations:
         - lang: ru
           describe: заголовок
-          enabled: true
         - lang: en
           describe: header
-          enabled: true
     - lexeme: error
       translations:
         - lang: en
           describe: header
-          enabled: true 
