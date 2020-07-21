@@ -1,0 +1,23 @@
+localization:
+  version: 3
+  lexemes:
+    - name: header
+      describe: name of header
+    - name: title_service
+      describe: name of service
+    - name: error
+      describe: error
+  lexemesTranslations:    
+    - lexeme: header
+      translations:
+        - lang: ru
+          describe: заголовок
+          enabled: true
+        - lang: en
+          describe: header
+          enabled: true
+    - lexeme: error
+      translations:
+        - lang: en
+          describe: header
+          enabled: true 
