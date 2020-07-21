@@ -1,12 +1,12 @@
 localization:
   version: 3
   lexemes:
-    - name: header
-      describe: name of header
-    - name: title_service
-      describe: name of service
-    - name: error
-      describe: error
+    - id: header
+      description: name of header
+    - id: title_service
+      description: name of service
+    - id: error
+      description: error
   lexemesTranslations:    
     - lexeme: header
       translations:
